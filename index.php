@@ -2,6 +2,6 @@
 
 echo "hello mundo";
 
-echo "hello mundo";
+echo "hello mano";
 
  ?>
